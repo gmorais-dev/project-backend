@@ -409,9 +409,11 @@ Esse endpoint é responsável por atualizar uma resposta existente.
 #### Parâmetros:  
 Id: o Id referente a resposta. 
 Response: Para trocar o texto de sua resposta. 
+```
 {
   "response": "fasfdsofodmfodsmfomsdofmdofms",
 }
+```
 #### Resposta: 
 Ok! 200 
 
