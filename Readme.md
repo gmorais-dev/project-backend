@@ -67,13 +67,9 @@ O Sistema deve ter um botão para editar arquivo, onde após clicado ele será r
 ![Not](https://user-images.githubusercontent.com/81191099/230793212-f95e9eac-5618-4c0e-996a-a6563a83e37a.png)
 
 # Diagrama UML Mobile 
-## parte1:
-![parte2](https://user-images.githubusercontent.com/95968468/230752000-116c1e7d-8748-4519-a1b9-3318d37e9123.png)
-## parte2:
-![parte1](https://user-images.githubusercontent.com/95968468/230751998-d5850ebb-6799-431c-b62d-c944601fc5c3.png)
-
+![15 04 2023_19 40 53_REC](https://user-images.githubusercontent.com/95968468/232256161-f3b05e11-454b-4ea1-a488-4e1e2eee2d9e.png)
 # Diagrama UML (Back-End)
-![08 04 2023_22 32 42_REC](https://user-images.githubusercontent.com/95968468/230752522-31c4e5db-849c-4945-ac5b-11ce21b96b4e.png)
+![15 04 2023_19 40 53_REC](https://user-images.githubusercontent.com/95968468/232256161-f3b05e11-454b-4ea1-a488-4e1e2eee2d9e.png)
 
 # Api / Contrato JSON 
 ## EndPoints 
