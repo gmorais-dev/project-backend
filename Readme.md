@@ -8,8 +8,8 @@ Fluxo Principal:
 
 * O usuário acessa a página de cadastro do sistema.
 * O sistema exibe a tela de cadastro com campos para nome, e-mail, seleção de tipo de conta (pessoa física ou jurídica) e senha
-* O usuário preenche os campos obrigatórios e clica em "Cadastrar".</ul>
-* O sistema valida os dados inseridos pelo usuário.</ul>
+* O usuário preenche os campos obrigatórios e clica em "Cadastrar".
+* O sistema valida os dados inseridos pelo usuário.
 
 Fluxo Alternativo:
 
