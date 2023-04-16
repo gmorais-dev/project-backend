@@ -1,32 +1,32 @@
 # Definição de funcionalidades 
 
-# Caso de Uso 1: Cadastro de Usuário
+## Caso de Uso 1: Cadastro de Usuário
 
 Descrição: Um usuário pode se cadastrar ao sistema. O usuário deve fornecer informações básicas, como nome, e-mail e senha, para criar uma nova conta. Além disso, o usuário deve ser capaz de inserir informações adicionais do perfil do Gerente, tais como foto de perfil e descrição.
 
 Fluxo Principal:
 
 <ul>O usuário acessa a página de cadastro do sistema.</ul>
-•	O sistema exibe a tela de cadastro com campos para nome, e-mail, seleção de tipo de conta (pessoa física ou jurídica) e senha.
-•	O usuário preenche os campos obrigatórios e clica em "Cadastrar".
-•	O sistema valida os dados inseridos pelo usuário.
+<ul>O sistema exibe a tela de cadastro com campos para nome, e-mail, seleção de tipo de conta (pessoa física ou jurídica) e senha</ul>
+<ul>O usuário preenche os campos obrigatórios e clica em "Cadastrar".</ul>
+<ul>O sistema valida os dados inseridos pelo usuário.</ul>
 
-## Fluxo Alternativo:
+Fluxo Alternativo:
 
 Se o usuário cometer algum erro durante o preenchimento do formulário, o sistema deve exibir uma mensagem de erro e permitir que o usuário corrija as informações incorretas.
 
 ------------------------------------- 
-# Caso de Uso 2: Login
+## Caso de Uso 2: Login
 
-## Descrição: o usuário deve colocar seu Email e senha para acessar o sistema.
+Descrição: o usuário deve colocar seu Email e senha para acessar o sistema.
 
-## Fluxo Principal:
+Fluxo Principal:
 
-•	O usuário acessa a página de login do sistema.
-•	O sistema exibe a tela de login com campos para Email e senha.
-•	O usuário insere seu nome de usuário e senha e clica em "Login".
-•	O sistema valida as informações de login.
-•	Se as informações estiverem corretas, o sistema redireciona o usuário para a página inicial do sistema.
+<ul> O usuário acessa a página de login do sistema.
+O sistema exibe a tela de login com campos para Email e senha.
+O usuário insere seu nome de usuário e senha e clica em "Login".
+O sistema valida as informações de login.
+Se as informações estiverem corretas, o sistema redireciona o usuário para a página inicial do sistema.</ul>
 
 ## Fluxo Alternativo:
 
