@@ -484,7 +484,7 @@ user_id: refere-se ao usuário que deseja usar essas informações de localizaç
 ```
 {
   "publication_id": 3,
-  "response": "fasfdsofodmfodsmfomsdofmdofms",
+  "response": "fasfdsofodmfodsmfomsdofmdofmsghh",
   "user_id": 2
 }
 ```
