@@ -38,7 +38,7 @@ Fluxo Alternativo:
 
 Se as informações estiverem incorretas, o sistema exibe uma mensagem de erro e solicita que o usuário tente novamente.
 
-*	O usuário esquece sua senha.
+*	O usuário esqueçer sua senha.
 *	O usuário clica no botão "Esqueci minha senha".
 *	O sistema exibe um formulário para redefinir a senha do usuário.
 *	O usuário insere seu e-mail cadastrado e clica em "Enviar".
